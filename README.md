@@ -13,6 +13,6 @@ Requirements:
 e.g.
 light; sudo,dev,www-data
 idimma; sudo
-mayowa; dev,www-datalml
+mayowa; dev,www-data
 For the first line, light is username and groups are sudo, dev, www-data
 Link to the Script: 
